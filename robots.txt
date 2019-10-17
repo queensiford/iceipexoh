@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pooceikaf.unarjs.org/sitemap.xml
